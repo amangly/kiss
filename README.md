@@ -2,7 +2,7 @@
 
 A KISS (Keep It Simple Stupid) skill for coding agents. Solve the current problem with the simplest readable code that fully works.
 
-I don't know why, but I ran into this problem while using DeepSeek. I told my agent to create a “simple CS2 cheat,” but it added a bunch of features like ESP, aimbot, triggerbot, and more. The result was broken, so I decided to follow the KISS principle.
+I don't know why, but I ran into this problem while using DeepSeek. I told my agent to create a “simple CS2 cheat,” but it added a bunch of features like ESP, aimbot, triggerbot, and more. The result was broken, so I tried the KISS skill. This time, the agent built only one feature, ESP, and it worked.
 
 ## Install
 
