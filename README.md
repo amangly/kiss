@@ -6,6 +6,10 @@ I asked DeepSeek for a simple CS2 cheat. It added ESP, aimbot, triggerbot, and m
 
 ![The DeepSeek session that led me to build kiss](assets/why-kiss.png)
 
+With kiss, the agent built only ESP:
+
+![ESP-only result after using kiss](assets/esp-only-result.png)
+
 ## Install
 
 ```sh
