@@ -2,6 +2,8 @@
 
 A KISS (Keep It Simple Stupid) skill for coding agents. Solve the current problem with the simplest readable code that fully works.
 
+I used [palepale-rs](https://github.com/amangly/palepale-rs) as my agent harness.
+
 I asked DeepSeek for a simple CS2 cheat. It added ESP, aimbot, triggerbot, and more, and the result was broken. That's why I built kiss. With the skill, the agent built only ESP, and it worked.
 
 <table>
