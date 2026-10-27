@@ -4,11 +4,16 @@ A KISS (Keep It Simple Stupid) skill for coding agents. Solve the current proble
 
 I asked DeepSeek for a simple CS2 cheat. It added ESP, aimbot, triggerbot, and more, and the result was broken. That's why I built kiss. With the skill, the agent built only ESP, and it worked.
 
-![The DeepSeek session that led me to build kiss](assets/why-kiss.png)
-
-With kiss, the agent built only ESP:
-
-![ESP-only result after using kiss](assets/esp-only-result.png)
+<table>
+  <tr>
+    <th width="50%">Before kiss</th>
+    <th width="50%">With kiss: ESP only</th>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="assets/why-kiss.png" alt="The DeepSeek session that led me to build kiss" width="100%"></td>
+    <td width="50%" valign="top"><img src="assets/esp-only-result.png" alt="ESP-only result after using kiss" width="100%"></td>
+  </tr>
+</table>
 
 ## Install
 
