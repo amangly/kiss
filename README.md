@@ -1,6 +1,6 @@
 # kiss
 
-A KISS (keep It Simple Stupid) skill for coding agents. Solve the current problem with the simplest readable code that fully works.
+A KISS (Keep It Simple Stupid) skill for coding agents. Solve the current problem with the simplest readable code that fully works.
 
 Use it to build features, simplify existing code, or review a diff. It checks for unnecessary abstractions, unused options, deep nesting, and premature optimization. Existing behavior and required checks stay intact.
 
