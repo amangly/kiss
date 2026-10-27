@@ -2,7 +2,7 @@
 
 A KISS (Keep It Simple Stupid) skill for coding agents. Solve the current problem with the simplest readable code that fully works.
 
-Use it to build features, simplify existing code, or review a diff. It checks for unnecessary abstractions, unused options, deep nesting, and premature optimization. Existing behavior and required checks stay intact.
+I don't know why, but I ran into this problem while using DeepSeek. I told my agent to create a “simple CS2 cheat,” but it added a bunch of features like ESP, aimbot, triggerbot, and more. The result was broken, so I decided to follow the KISS principle.
 
 ## Install
 
